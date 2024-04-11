@@ -14,10 +14,10 @@ function Cards() {
           class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 text-center dark:border-gray-700"
         >
           <a href="#">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight mt-5">technology 2024</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight mt-5">Unikátní Design na Míru</h5>
           </a>
           <p class=" text-center my-10 font-normal">
-            Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+          Naše tým grafických designérů vytvoří pro váš web originální a moderní vzhled.
           </p>
         </div>
 
@@ -26,10 +26,10 @@ function Cards() {
           class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 text-center dark:border-gray-700"
         >
           <a href="#">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight mt-5">technology 2024</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight mt-5">Webové Stránky pro Všechna Zařízení</h5>
           </a>
           <p class=" text-center my-10 font-normal">
-            Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+          S našimi webovými stránkami si můžete být jisti, že vaše online přítomnost bude dokonalá na všech zařízeních
           </p>
         </div>
 
@@ -38,10 +38,10 @@ function Cards() {
           class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 text-center dark:border-gray-700"
         >
           <a href="#">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight mt-5">technology 2024</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight mt-5">Zvýšte Vaši Viditelnost Online</h5>
           </a>
           <p class=" text-center my-10 font-normal">
-            Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+          S našimi webovými stránkami nejenže zaujmete návštěvníky, ale také budete lépe viditelní ve vyhledávačích jako Google. 
           </p>
         </div>
       </div>
